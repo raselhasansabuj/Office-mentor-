@@ -1,0 +1,14 @@
+{
+  "name": "techathon-office-monitor",
+  "version": "1.0.0",
+  "description": "Lights, Fans, Discord: The Boss's Big Idea",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "discord.js": "^14.14.1",
+    "express": "^4.18.2"
+  }
+}
